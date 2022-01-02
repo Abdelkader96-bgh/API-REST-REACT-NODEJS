@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "61d211b294e5ca99b063b21b"
+  },
+  "name": "Cabane Marrakech ",
+  "price": 400,
+  "partner": "David chiter",
+  "imageUrl": "https://a0.muscache.com/pictures/d0e92288-cb76-4d99-94dc-f6c9e61d1cda.jpg",
+  "description": "Respect de la nature, tourisme et écologie ne riment pas forcément avec habitat spartiate et inconfortable. Vous y trouverez un accueil confortable et très attentionné en toute saisons. Nos cabanes sont des chambres de charme .",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d2122194e5ca99b063b226"
+  },
+  "name": "Cabane France",
+  "categorie": {
+    "$oid": "61d2110a94e5ca99b063b214"
+  },
+  "price": 500,
+  "partner": "Leila amine",
+  "imageUrl": "https://www.lesormes.com/system/media-cache/e39eba013f178dfc/cabane-tyrolienne-2-les-ormes-01-3000.jpg",
+  "description": "Respect de la nature, tourisme et écologie ne riment pas forcément avec habitat spartiate et inconfortable. Vous y trouverez un accueil confortable et très attentionné en toute saisons. Nos cabanes sont des chambres de charme .",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d2127894e5ca99b063b22a"
+  },
+  "name": "Cabane Paris ",
+  "categorie": {
+    "$oid": "61d2112c94e5ca99b063b216"
+  },
+  "price": 900,
+  "partner": "Fernando de chiter",
+  "imageUrl": "https://www.noovomoi.ca/content/dam/style-de-vie/migrated/images/2021/02/04/cabane-sucre-quebec.jpg",
+  "description": "Respect de la nature, tourisme et écologie ne riment pas forcément avec habitat spartiate et inconfortable. Vous y trouverez un accueil confortable et très attentionné en toute saisons. Nos cabanes sont des chambres de charme .",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d2131494e5ca99b063b22e"
+  },
+  "name": "Cabane New york ",
+  "categorie": {
+    "$oid": "61d2113494e5ca99b063b218"
+  },
+  "price": 800,
+  "partner": "Philippe berada",
+  "imageUrl": "http://www.voyageurs-du-net.com/wp-content/uploads/2013/09/hebergement-insolite-limousin-10-638x415.jpg",
+  "description": "Respect de la nature, tourisme et écologie ne riment pas forcément avec habitat spartiate et inconfortable. Vous y trouverez un accueil confortable et très attentionné en toute saisons. Nos cabanes sont des chambres de charme.",
+  "__v": 0
+}]

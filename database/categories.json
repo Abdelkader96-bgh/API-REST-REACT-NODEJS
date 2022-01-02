@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "61d210ef94e5ca99b063b212"
+  },
+  "name": "Cabanes de pêcheurs",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d2110a94e5ca99b063b214"
+  },
+  "name": "Cabanes dans les arbres",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d2112c94e5ca99b063b216"
+  },
+  "name": " Cabane à sucre",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d2113494e5ca99b063b218"
+  },
+  "name": "Cabanes de nomades",
+  "__v": 0
+}]
